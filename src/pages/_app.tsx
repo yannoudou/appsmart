@@ -21,13 +21,13 @@ function FontLoader() {
       <style jsx>{`
         @font-face {
           font-family: "gheavy";
-          src: url("/fonts/g-heavy.woff2") format("woff2");
+          src: url("/fonts/Heavy.woff2") format("woff2");
           font-display: optional;
         }
 
         @font-face {
           font-family: "gbold";
-          src: url("/fonts/g-bold.woff2") format("woff2");
+          src: url("/fonts/Bold.woff2") format("woff2");
           font-display: optional;
         }
 

@@ -38,7 +38,7 @@ export default class MyDocument extends Document<{ isCharacterion: boolean }> {
             as="font"
             crossOrigin=""
           />
-          <link
+          {/* <link
             rel="preload"
             href="/fonts/Heavy.woff2"
             as="font"
@@ -49,7 +49,7 @@ export default class MyDocument extends Document<{ isCharacterion: boolean }> {
             href="/fonts/Heavy.woff2"
             as="font"
             crossOrigin=""
-          />
+          /> */}
         </Head>
         <body>
           <Main />
