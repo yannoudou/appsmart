@@ -50,5 +50,6 @@ The big problem with the fonts is the loading time.
 ######### TESTING ########
 
 I use JEST for testing
-thanks the business logic in are mosty hooks i do just test them.
-i could have add some test for the UI but it's a matter of time.
+business logic in most cases are hooks,
+I just test them.
+I could have added tests for the user interface but it's a matter of time.
