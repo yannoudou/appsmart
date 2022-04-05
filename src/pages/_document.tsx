@@ -34,13 +34,13 @@ export default class MyDocument extends Document<{ isCharacterion: boolean }> {
           />
           <link
             rel="preload"
-            href="/fonts/g-bold.woff2"
+            href="/fonts/Heavy.woff2"
             as="font"
             crossOrigin=""
           />
           <link
             rel="preload"
-            href="/fonts/g-heavy.woff2"
+            href="/fonts/Heavy.woff2"
             as="font"
             crossOrigin=""
           />
