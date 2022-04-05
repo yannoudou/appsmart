@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Disallow: /parameter/*
+Disallow: /parameter
+Disallow: /home
+
+# bnf.fr_bot
+User-agent: bnf.fr_bot
+Disallow: /
+
+ 

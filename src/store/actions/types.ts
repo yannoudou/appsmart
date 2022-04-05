@@ -1,0 +1,13 @@
+export const SERVER_LINK = process.env.SERVER_URL;
+
+export enum ActionType {
+  FACEBOOK_LOGIN_ID = "facebookAppId",
+  GOOGLE_LOGIN_URL = "GoogleClientId",
+
+  DISCONNECT_AND_INITIALIZE_ALL_REDUCER = "DISCONNECT_AND_INITIALIZE_ALL_REDUCER",
+
+  // for the blacklist reducers
+  CACHE_BACK_END_REQUEST = "CACHE_BACK_END_REQUEST",
+  DELETE_CACHE_BACK_END_REQUEST = "DELETE_CACHE_BACK_END_REQUEST",
+  CLEAR_ALL_CACHE_BACK_END_REQUEST = "CLEAR_ALL_CACHE_BACK_END_REQUEST", // it will clear all the cached request from the backend
+}
