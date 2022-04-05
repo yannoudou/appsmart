@@ -5,6 +5,9 @@ module.exports = {
   },
   env: {
     // environment varianles
+    SERVER_URL: process.env.SERVER_URL,
+    PUBLIC_KEY: process.env.PUBLIC_KEY,
+    PRIVATE_KEY: process.env.PRIVATE_KEY,
   },
   poweredByHeader: false,
   crossOrigin: "anonymous",
