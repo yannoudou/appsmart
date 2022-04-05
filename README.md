@@ -1,13 +1,13 @@
 #Hello,
 I submitted the .env file, it's not a mistake, it's just so you have a better understanding on my path to work.
 
-#Even though it's just a test to try to bring some good default practices.
+#Even though it's just a test ,i try to use by default some best pratices and bring some optimisation.
 
 -image NextJS
 -Image cache
 -Some SEO optimizations.
 
-And I deployed unter https://appsmart.noudou.com subdomain, you can review it here.
+And I deployed unter https://appsmart.noudou.me subdomain, you can review it here.
 
 I used class components and also functional components.
 
